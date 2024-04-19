@@ -33,9 +33,9 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiment
 
-Voici les étapes à suivre pour déployer en production :
+Voici les étapes à suivre pour déploier en production :
 
 ```
 A définir
@@ -53,8 +53,8 @@ Merci de lire les fichiers :
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
 ## Auteurs
-
-* **Non spécifié**
+s
+* ** O.C.**
 
 ## License
 
